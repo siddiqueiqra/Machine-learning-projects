@@ -3,6 +3,7 @@ The Machine-learning-projects by Industry is a comprehensive collection of my wo
 
 ## Virtual Internship Projects
 - [KMPG Project](https://github.com/siddiqueiqra/KPMG_virtual_internship)
+- [BRITISH AIRWAY](https://github.com/siddiqueiqra/british_airway)
 - [Red bull Sales](https://github.com/siddiqueiqra/redbull-on-premise-sales)
 - One of the projects I have worked on is the KMPG project, which involves analyzing customer data and providing insights to improve business performance. I have also worked on the Red Bull sales project, which focuses on predicting sales using historical data.
 
